@@ -104,20 +104,17 @@ local function guess_sharepoint_build_info(version)
         minor = tonumber(minor)
         build = tonumber(build)
 
-        if major == 15 then
-            product = "SharePoint 2013"
+        if major == 14 then
+            product = "SharePoint Server 2010"
+        elseif major == 15 then
+            product = "SharePoint Server 2013"
         elseif major == 16 then
-            if build < 2000 then
-                product = "SharePoint 2016"
-            elseif build < 10000 then
-                product = "SharePoint 2019"
-            elseif build < 20000 then
-                product = "SharePoint 2019 or SE (early builds)"
-            elseif build >= 20000 then
-                product = "SharePoint Subscription Edition (SE)"
-                if build == 26302 then
-                    release_date = "September 2023 PU (approx)"
-                end
+            if build < 10000 then
+                product = "SharePoint Server 2016"
+            elseif build < 14000 then
+                product = "SharePoint Server 2019"
+            elseif build >= 14000 then
+                product = "SharePoint Server Subscription Edition"
             end
         end
     end
