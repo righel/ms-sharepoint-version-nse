@@ -3,9 +3,9 @@
 
 ### Usage
 ```
-$ nmap -p 443 --script ms-sharepoint-version.nse easydocx.lu
+$ nmap -p 443 --script ms-sharepoint-version.nse example.com
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-07-21 17:33 CEST
-Nmap scan report for REDACTED (REDACTED)
+Nmap scan report for example.com (127.0.0.1)
 Host is up (0.030s latency).
 
 PORT    STATE SERVICE
