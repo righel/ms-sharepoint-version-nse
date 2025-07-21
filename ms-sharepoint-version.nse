@@ -82,15 +82,6 @@ local function get_sharepoint_build(host, port, build_version_map)
     return nil
 end
 
-local function get_cves(host, port, cves_map, build)
-    local cves = {}
-    if cves_map[build] ~= nil then
-        cves = cves_map[build]["cves"]
-    end
-
-    return cves
-end
-
 local function get_version_output(host, port, build, version)
     local output = {}
 
@@ -109,7 +100,13 @@ action = function(host, port)
     if build == nil then return "ERROR: Host not running MS SharePoint or could not get version" end
     build = string.gsub(build, "0.0", "0")
 
-    local output = {}
+    local output = {
+        [build] = {
+            product = "Unknown",
+            build = "Unknown",
+            release_date = "Unknown"
+        }
+    }
 
     local version = build_version_map[build]
 
