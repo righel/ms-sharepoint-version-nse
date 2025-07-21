@@ -37,5 +37,5 @@ $ nmap -p 443 --script ms-sharepoint-version.nse --script-args=http.max-cache-si
 Everyday a Github action is run to check if there are new Microsoft SharePoint versions published in this Microsoft docs page: 
 * https://learn.microsoft.com/en-us/officeupdates/sharepoint-updates
 
-If so, the files [ms-sharepoint-versions-dict.json](./ms-sharepoint-versions-dict.json) and [ms-sharepoint-versions-cves-dict.json](./ms-sharepoint-versions-cves-dict.json) are automatically updated so the nmap script can detect these new versions.
+If so, the file [ms-sharepoint_versions-dict.json](./ms-sharepoint_versions-dict.json) is automatically updated so the nmap script can detect these new versions.
 
