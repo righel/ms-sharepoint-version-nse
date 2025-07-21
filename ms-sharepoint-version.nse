@@ -94,25 +94,56 @@ local function get_version_output(host, port, build, version)
     return output
 end
 
+local function guess_sharepoint_build_info(version)
+    local major, minor, build = version:match("^(%d+)%.(%d+)%.(%d+)")
+    local product = "Unknown"
+    local release_date = "Unknown"
+
+    if major and minor and build then
+        major = tonumber(major)
+        minor = tonumber(minor)
+        build = tonumber(build)
+
+        if major == 15 then
+            product = "SharePoint 2013"
+        elseif major == 16 then
+            if build < 2000 then
+                product = "SharePoint 2016"
+            elseif build < 10000 then
+                product = "SharePoint 2019"
+            elseif build < 20000 then
+                product = "SharePoint 2019 or SE (early builds)"
+            elseif build >= 20000 then
+                product = "SharePoint Subscription Edition (SE)"
+                if build == 26302 then
+                    release_date = "September 2023 PU (approx)"
+                end
+            end
+        end
+    end
+
+    local output = {
+        [version] = {
+            product = product,
+            build = version,
+            release_date = release_date
+        }
+    }
+
+    return output
+end
+
 action = function(host, port)
     local build_version_map = get_versions_map()
     local build = get_sharepoint_build(host, port, build_version_map)
     if build == nil then return "ERROR: Host not running MS SharePoint or could not get version" end
     build = string.gsub(build, "0.0", "0")
 
-    local output = {
-        [build] = {
-            product = "Unknown",
-            build = "Unknown",
-            release_date = "Unknown"
-        }
-    }
-
     local version = build_version_map[build]
 
     if (version ~= nil) then
         return get_version_output(host, port, build, version)
+    else 
+        return guess_sharepoint_build_info(build)
     end
-
-    return output
 end
