@@ -1,0 +1,24 @@
+name: "Update MS SharePoint versions dictionary"
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 5 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Install python deps
+        run: pip install lxml requests looseversion
+      - name: Crawl versions and create dictionary
+        working-directory: ./automation
+        run: |
+          python parse_sharepoint_versions.py ../ms-sharepoint_versions-dict.json
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: automatic update
