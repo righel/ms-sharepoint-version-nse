@@ -1,4 +1,202 @@
 {
+    "14.0.4762": {
+        "name": "\u200b\u200bSharePoint Server 2010 - RTM",
+        "release_date": "RTM",
+        "build": "14.0.4762",
+        "kb_numbers": []
+    },
+    "14.0.4763": {
+        "name": "\u200b\u200bSharePoint Server 2010 - RTM",
+        "release_date": "RTM",
+        "build": "14.0.4763",
+        "kb_numbers": []
+    },
+    "14.0.5114": {
+        "name": "\u200b\u200bSharePoint Server 2010 - June 2010 CU",
+        "release_date": "June 2010 CU",
+        "build": "14.0.5114",
+        "kb_numbers": []
+    },
+    "14.0.5123": {
+        "name": "\u200b\u200bSharePoint Server 2010 - August 2010 CU",
+        "release_date": "August 2010 CU",
+        "build": "14.0.5123",
+        "kb_numbers": []
+    },
+    "14.0.5128": {
+        "name": "\u200b\u200bSharePoint Server 2010 - October 2010 CU\u200b",
+        "release_date": "October 2010 CU\u200b",
+        "build": "14.0.5128",
+        "kb_numbers": []
+    },
+    "14.0.5130": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bDecember 2010 CU",
+        "release_date": "\u200bDecember 2010 CU",
+        "build": "14.0.5130",
+        "kb_numbers": []
+    },
+    "14.0.5136": {
+        "name": "\u200b\u200bSharePoint Server 2010 - February 2011 CU\u200b",
+        "release_date": "February 2011 CU\u200b",
+        "build": "14.0.5136",
+        "kb_numbers": []
+    },
+    "14.0.5138": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bApril 2011 CU",
+        "release_date": "\u200bApril 2011 CU",
+        "build": "14.0.5138",
+        "kb_numbers": []
+    },
+    "14.0.6029": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bService Pack 1",
+        "release_date": "\u200bService Pack 1",
+        "build": "14.0.6029",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2460045",
+                "kb_title": "KB2460045"
+            }
+        ]
+    },
+    "14.0.6105": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bJune 2011 CU Mark 1",
+        "release_date": "\u200bJune 2011 CU Mark 1",
+        "build": "14.0.6105",
+        "kb_numbers": []
+    },
+    "14.0.6106": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200b\u200bJune 2011 CU Mark 2",
+        "release_date": "\u200b\u200bJune 2011 CU Mark 2",
+        "build": "14.0.6106",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2536599",
+                "kb_title": ""
+            }
+        ]
+    },
+    "14.0.6109": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bAugust 2011 CU",
+        "release_date": "\u200bAugust 2011 CU",
+        "build": "14.0.6109",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2553048",
+                "kb_title": "KB2553048"
+            }
+        ]
+    },
+    "14.0.6112": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bOctober 2011 CU",
+        "release_date": "\u200bOctober 2011 CU",
+        "build": "14.0.6112",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2596505",
+                "kb_title": "KB2596505"
+            }
+        ]
+    },
+    "14.0.6114": {
+        "name": "\u200b\u200bSharePoint Server 2010 - December 2011 CU",
+        "release_date": "December 2011 CU",
+        "build": "14.0.6114",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2596998",
+                "kb_title": ""
+            }
+        ]
+    },
+    "14.0.6117": {
+        "name": "\u200b\u200bSharePoint Server 2010 - February 2012 CU\u200b",
+        "release_date": "February 2012 CU\u200b",
+        "build": "14.0.6117",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/default.aspx?scid=kb%3bEN-US%3b2597150",
+                "kb_title": "KB2597150\u200b"
+            }
+        ]
+    },
+    "14.0.6120": {
+        "name": "\u200b\u200bSharePoint Server 2010 - April 2012 CU\u200b Mark1",
+        "release_date": "April 2012 CU\u200b Mark1",
+        "build": "14.0.6120",
+        "kb_numbers": []
+    },
+    "14.0.6123": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bJune 2012 CU",
+        "release_date": "\u200bJune 2012 CU",
+        "build": "14.0.6123",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2598354",
+                "kb_title": "KB2598354"
+            }
+        ]
+    },
+    "14.0.6126": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bAugust 2012 CU",
+        "release_date": "\u200bAugust 2012 CU",
+        "build": "14.0.6126",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2687353",
+                "kb_title": "KB2687353"
+            }
+        ]
+    },
+    "14.0.6129": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200b\u200bOctober 2012 CU",
+        "release_date": "\u200b\u200bOctober 2012 CU",
+        "build": "14.0.6129",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/default.aspx?scid=kb%3bEN-US%3b2687564&wa=wsignin1.0",
+                "kb_title": "KB2687564"
+            }
+        ]
+    },
+    "14.0.6131": {
+        "name": "\u200b\u200bSharePoint Server 2010 - December 2012 CU",
+        "release_date": "December 2012 CU",
+        "build": "14.0.6131",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2596955",
+                "kb_title": "KB2596955"
+            }
+        ]
+    },
+    "14.0.6134": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200b\u200bFebruary 2013 CU",
+        "release_date": "\u200b\u200bFebruary 2013 CU",
+        "build": "14.0.6134",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/default.aspx?scid=kb%3bEN-US%3b2767793",
+                "kb_title": "KB2767793"
+            }
+        ]
+    },
+    "14.0.6137": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bApril 2013 CU",
+        "release_date": "\u200bApril 2013 CU",
+        "build": "14.0.6137",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/default.aspx?scid=kb%3bEN-US%3b2775353",
+                "kb_title": "KB2775353"
+            }
+        ]
+    },
+    "14.0.7011": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bSP2 Public Beta",
+        "release_date": "\u200bSP2 Public Beta",
+        "build": "14.0.7011",
+        "kb_numbers": []
+    },
     "14.0.7015": {
         "name": "SharePoint Foundation 2010  SharePoint Server 2010",
         "release_date": "Service Pack 2 July 2013",
@@ -7,6 +205,17 @@
             {
                 "kb_number": "https://support.microsoft.com/help/2687464",
                 "kb_title": "KB 2687464 (SP2)"
+            }
+        ]
+    },
+    "14.0.7102": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bJune 2013 CU Mark 1",
+        "release_date": "\u200bJune 2013 CU Mark 1",
+        "build": "14.0.7102",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/default.aspx?scid=kb%3bEN-US%3b2817363",
+                "kb_title": "KB2817363"
             }
         ]
     },
@@ -87,6 +296,17 @@
             }
         ]
     },
+    "14.0.7123": {
+        "name": "\u200b\u200bSharePoint Server 2010 - MS14-022",
+        "release_date": "MS14-022",
+        "build": "14.0.7123",
+        "kb_numbers": [
+            {
+                "kb_number": "https://technet.microsoft.com/library/security/ms14-022",
+                "kb_title": "KB2952166"
+            }
+        ]
+    },
     "14.0.7125": {
         "name": "SharePoint Foundation 2010  SharePoint Server 2010",
         "release_date": "June 2014",
@@ -117,6 +337,17 @@
             {
                 "kb_number": "https://support.microsoft.com/help/2883026",
                 "kb_title": "KB 2883026"
+            }
+        ]
+    },
+    "14.0.7130": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bAugust 2014 CU",
+        "release_date": "\u200bAugust 2014 CU",
+        "build": "14.0.7130",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2889831",
+                "kb_title": "KB2889831"
             }
         ]
     },
@@ -264,6 +495,12 @@
                 "kb_title": "KB 3114418"
             }
         ]
+    },
+    "14.0.7165": {
+        "name": "\u200b\u200bSharePoint Server 2010 - \u200bJanuary 2016 CU",
+        "release_date": "\u200bJanuary 2016 CU",
+        "build": "14.0.7165",
+        "kb_numbers": []
     },
     "14.0.7166": {
         "name": "SharePoint Foundation 2010  SharePoint Server 2010",
@@ -870,6 +1107,29 @@
             }
         ]
     },
+    "15.0.4128": {
+        "name": "\u200b\u200bSharePoint Server 2013 - Beta",
+        "release_date": "Beta",
+        "build": "15.0.4128",
+        "kb_numbers": []
+    },
+    "15.0.4420": {
+        "name": "\u200b\u200bSharePoint Server 2013 - \u200bRTM",
+        "release_date": "\u200bRTM",
+        "build": "15.0.4420",
+        "kb_numbers": []
+    },
+    "15.0.4433": {
+        "name": "\u200b\u200bSharePoint Server 2013 - \u200bDecember 2012 Hotfix",
+        "release_date": "\u200bDecember 2012 Hotfix",
+        "build": "15.0.4433",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2752058",
+                "kb_title": "KB2752058"
+            }
+        ]
+    },
     "15.0.4481": {
         "name": "SharePoint Foundation 2013  SharePoint Server 2013",
         "release_date": "March 2013",
@@ -969,6 +1229,17 @@
             }
         ]
     },
+    "15.0.4569": {
+        "name": "\u200b\u200bSharePoint Server 2013 - \u200bService Pack 1",
+        "release_date": "\u200bService Pack 1",
+        "build": "15.0.4569",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2817439",
+                "kb_title": "KB2817439"
+            }
+        ]
+    },
     "15.0.4571": {
         "name": "SharePoint Foundation 2013  SharePoint Server 2013",
         "release_date": "Service Pack 1          April 2014",
@@ -988,6 +1259,28 @@
             {
                 "kb_number": "https://support.microsoft.com/help/2863892",
                 "kb_title": "KB 2863892"
+            }
+        ]
+    },
+    "15.0.4615": {
+        "name": "\u200b\u200bSharePoint Server 2013 - \u200bMS14-022",
+        "release_date": "\u200bMS14-022",
+        "build": "15.0.4615",
+        "kb_numbers": [
+            {
+                "kb_number": "https://technet.microsoft.com/library/security/ms14-022",
+                "kb_title": "KB2952166"
+            }
+        ]
+    },
+    "15.0.4617": {
+        "name": "\u200b\u200bSharePoint Server 2013 - \u200bJune 2014 CU",
+        "release_date": "\u200bJune 2014 CU",
+        "build": "15.0.4617",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2881063",
+                "kb_title": "KB2881063"
             }
         ]
     },
@@ -1013,11 +1306,33 @@
             }
         ]
     },
+    "15.0.4641": {
+        "name": "\u200b\u200bSharePoint Server 2013 - \u200bAugust 2014 CU",
+        "release_date": "\u200bAugust 2014 CU",
+        "build": "15.0.4641",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2883081",
+                "kb_title": "KB2883081"
+            }
+        ]
+    },
     "15.0.4649": {
         "name": "SharePoint Foundation 2013  SharePoint Server 2013",
         "release_date": "September 2014",
         "build": "15.0.4649",
         "kb_numbers": []
+    },
+    "15.0.4659": {
+        "name": "\u200b\u200bSharePoint Server 2013 - \u200bOctober 2014 CU",
+        "release_date": "\u200bOctober 2014 CU",
+        "build": "15.0.4659",
+        "kb_numbers": [
+            {
+                "kb_number": "http://support.microsoft.com/kb/2889946",
+                "kb_title": "KB2889946"
+            }
+        ]
     },
     "15.0.4667": {
         "name": "SharePoint Foundation 2013  SharePoint Server 2013",
