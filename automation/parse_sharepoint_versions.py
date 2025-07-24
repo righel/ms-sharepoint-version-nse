@@ -36,7 +36,10 @@ def parse_ms_docs_versions():
                 "kb_title": row[1][0].text_content().strip(),
             }
 
-        build = row[2].text_content().strip().rsplit(".", 1)[0]
+        build = row[2].text_content().strip()
+
+        if build == "16.0 5305.1000":
+            build = "16.0.5305.1000"  # fix ms typo
 
         # check build number format and dots
         res = re.finditer(r"((\d+\.)+\d+)", build)
@@ -109,10 +112,10 @@ def parse_toddklindt_versions():
                 }
 
             build = (
-                row[0].text_content().replace("\u200b", "").strip().rsplit(".", 1)[0]
+                row[0].text_content().replace("\u200b", "").strip()
             )
 
-            res = re.match(r"^\d+\.\d+\.\d+$", build)
+            res = re.match(r"^\d+\.\d+\.\d+.\d+$", build)
             if not res:
                 continue
 
