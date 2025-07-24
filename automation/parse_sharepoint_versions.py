@@ -145,8 +145,12 @@ if __name__ == "__main__":
         exit("output files path missing")
     versions_file = sys.argv[1]
 
+    versions = json.load(open(versions_file, "r")) if versions_file else {}
+
     parse_ms_docs_versions()
-    parse_toddklindt_versions()
+
+    if (sys.argv[2] and sys.argv[2]) == "--include-toddklindt":
+        parse_toddklindt_versions()
 
     versions = {k: versions[k] for k in sorted(versions, key=LooseVersion)}
 
