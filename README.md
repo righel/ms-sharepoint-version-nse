@@ -11,12 +11,25 @@ Host is up (0.030s latency).
 PORT    STATE SERVICE
 443/tcp open  https
 | ms-sharepoint-version: 
-|   16.0.10376: 
+|   16.0.10416.20050: 
+|     build: 16.0.10416.20050
+|     release_date: February 2025
+|     product: SharePoint Server 2019
+|   16.0.10416.20000: 
+|     build: 16.0.10416.20000
+|     release_date: November 2024
+|     product: SharePoint Server 2019
+|   16.0.10416.20026: 
+|     build: 16.0.10416.20026
+|     release_date: December 2024
 |     product: SharePoint Server 2019  SharePoint Server 2019 MUI/language patch
-|     build: 16.0.10376
-|_    release_date: July 2021
+|   16.0.10416.20041: 
+|     build: 16.0.10416.20041
+|     release_date: January 2025
+|_    product: SharePoint Server 2019  SharePoint Server 2019 MUI/language patch
 
-Nmap done: 1 IP address (1 host up) scanned in 0.81 seconds
+Nmap done: 1 IP address (1 host up) scanned in 10.42 seconds
+
 ```
 
 * `--script-args=browser`:
