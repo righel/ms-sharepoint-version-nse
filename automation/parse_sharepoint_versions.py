@@ -149,7 +149,7 @@ if __name__ == "__main__":
 
     parse_ms_docs_versions()
 
-    if (sys.argv[2] and sys.argv[2]) == "--include-toddklindt":
+    if (len(sys.argv) > 2 and sys.argv[2]) == "--include-toddklindt":
         parse_toddklindt_versions()
 
     versions = {k: versions[k] for k in sorted(versions, key=LooseVersion)}
