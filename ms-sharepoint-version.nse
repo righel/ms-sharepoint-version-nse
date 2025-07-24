@@ -82,7 +82,7 @@ local function get_sharepoint_build(host, port, build_version_map)
     return nil
 end
 
-local function get_version_output(host, port, build, version)
+local function get_version_output(build, version)
     local output = {}
 
     output[build] = {
@@ -153,17 +153,12 @@ action = function(host, port)
     end
 
     if next(matches) ~= nil then
-        local output = "Partial match for build " .. build .. ":\n"
-        for ver, data in pairs(matches) do
-            output = output .. string.format("- %s: %s (%s)\n", ver, data.name or "Unknown", data.release_date or "Unknown")
+        local output = {}
+        for v, data in pairs(matches) do
+            output[v] = get_version_output(v, data)[v]
         end
         return output
     else
-        local guess = guess_sharepoint_build_info(build)
-        local output = "No match found. Heuristic guess:\n"
-        for k, v in pairs(guess) do
-            output = output .. string.format("- %s: %s (%s)\n", k, v.product, v.release_date)
-        end
-        return output
+        return guess_sharepoint_build_info(build)
     end
 end
