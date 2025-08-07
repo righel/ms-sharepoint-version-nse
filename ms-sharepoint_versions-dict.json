@@ -3453,12 +3453,23 @@
     },
     "16.0.5508.1000": {
         "name": "SharePoint Server 2016  SharePoint Server 2016 MUI/language patch",
-        "release_date": "July 2025",
+        "release_date": "July 8, 2025",
         "build": "16.0.5508.1000",
         "kb_numbers": [
             {
                 "kb_number": "https://support.microsoft.com/help/5002744",
                 "kb_title": "KB 5002744"
+            }
+        ]
+    },
+    "16.0.5513.1001": {
+        "name": "SharePoint Server 2016  SharePoint Server 2016 MUI/language patch",
+        "release_date": "July 21, 2025",
+        "build": "16.0.5513.1001",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002760",
+                "kb_title": "KB 5002760"
             }
         ]
     },
@@ -4344,12 +4355,23 @@
     },
     "16.0.10417.20027": {
         "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
-        "release_date": "July 2025",
+        "release_date": "July 8, 2025",
         "build": "16.0.10417.20027",
         "kb_numbers": [
             {
                 "kb_number": "https://support.microsoft.com/help/5002741",
                 "kb_title": "KB 5002741"
+            }
+        ]
+    },
+    "16.0.10417.20037": {
+        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "release_date": "July 21, 2025",
+        "build": "16.0.10417.20037",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002754",
+                "kb_title": "KB 5002754"
             }
         ]
     },
@@ -4828,12 +4850,23 @@
     },
     "16.0.18526.20424": {
         "name": "SharePoint Server Subscription Edition",
-        "release_date": "July 2025",
+        "release_date": "July 8, 2025",
         "build": "16.0.18526.20424",
         "kb_numbers": [
             {
                 "kb_number": "https://support.microsoft.com/help/5002751",
                 "kb_title": "KB 5002751"
+            }
+        ]
+    },
+    "16.0.18526.20508": {
+        "name": "SharePoint Server Subscription Edition",
+        "release_date": "July 21, 2025",
+        "build": "16.0.18526.20508",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002768",
+                "kb_title": "KB 5002768"
             }
         ]
     }
