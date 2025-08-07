@@ -9,8 +9,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
       - name: Install python deps
@@ -19,6 +23,6 @@ jobs:
         working-directory: ./automation
         run: |
           python parse_sharepoint_versions.py ../ms-sharepoint_versions-dict.json
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: automatic update
