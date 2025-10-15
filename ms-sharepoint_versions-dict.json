@@ -3495,6 +3495,17 @@
             }
         ]
     },
+    "16.0.5522.1000": {
+        "name": "SharePoint Server 2016  SharePoint Server 2016 MUI/language patch",
+        "release_date": "October 14, 2025",
+        "build": "16.0.5522.1000",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002788",
+                "kb_title": "KB 5002788"
+            }
+        ]
+    },
     "16.0.10338.12107": {
         "name": "SharePoint Server 2019",
         "release_date": "November 2018",
@@ -4419,6 +4430,17 @@
             }
         ]
     },
+    "16.0.10417.20059": {
+        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "release_date": "October 14, 2025",
+        "build": "16.0.10417.20059",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002796",
+                "kb_title": "KB 5002796"
+            }
+        ]
+    },
     "16.0.14326.20620": {
         "name": "SharePoint Server Subscription Edition  SharePoint Server Subscription Edition MUI/language patch",
         "release_date": "December 2021",
@@ -4933,6 +4955,17 @@
             {
                 "kb_number": "https://support.microsoft.com/help/5002784",
                 "kb_title": "KB 5002784"
+            }
+        ]
+    },
+    "16.0.19127.20262": {
+        "name": "SharePoint Server Subscription Edition",
+        "release_date": "October 14, 2025",
+        "build": "16.0.19127.20262",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002786",
+                "kb_title": "KB 5002786"
             }
         ]
     }
