@@ -1,6 +1,6 @@
 {
     "14.0.7015.1000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "Service Pack 2 July 2013",
         "build": "14.0.7015.1000",
         "kb_numbers": [
@@ -32,8 +32,19 @@
             }
         ]
     },
+    "14.0.7106.500014.0.7106.5002": {
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
+        "release_date": "August 2013",
+        "build": "14.0.7106.500014.0.7106.5002",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/2817594",
+                "kb_title": "KB 2817594"
+            }
+        ]
+    },
     "14.0.7110.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "October 2013",
         "build": "14.0.7110.5000",
         "kb_numbers": [
@@ -44,7 +55,7 @@
         ]
     },
     "14.0.7113.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "December 2013",
         "build": "14.0.7113.5000",
         "kb_numbers": [
@@ -55,7 +66,7 @@
         ]
     },
     "14.0.7116.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "February 2014",
         "build": "14.0.7116.5000",
         "kb_numbers": [
@@ -87,6 +98,17 @@
             }
         ]
     },
+    "14.0.7121.500014.0.7121.5004": {
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
+        "release_date": "April 2014",
+        "build": "14.0.7121.500014.0.7121.5004",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/2878270",
+                "kb_title": "KB 2878270"
+            }
+        ]
+    },
     "14.0.7125.5000": {
         "name": "SharePoint Foundation 2010  SharePoint Server 2010",
         "release_date": "June 2014",
@@ -109,8 +131,19 @@
             }
         ]
     },
+    "14.0.7125.500214.0.7125.5000": {
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
+        "release_date": "June 2014",
+        "build": "14.0.7125.500214.0.7125.5000",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/2880975",
+                "kb_title": "KB 2880975"
+            }
+        ]
+    },
     "14.0.7128.5001": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "July 2014",
         "build": "14.0.7128.5001",
         "kb_numbers": [
@@ -121,7 +154,7 @@
         ]
     },
     "14.0.7132.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "September 2014",
         "build": "14.0.7132.5000",
         "kb_numbers": [
@@ -132,7 +165,7 @@
         ]
     },
     "14.0.7134.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "October 2014",
         "build": "14.0.7134.5000",
         "kb_numbers": [
@@ -143,7 +176,7 @@
         ]
     },
     "14.0.7137.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "November 2014",
         "build": "14.0.7137.5000",
         "kb_numbers": [
@@ -154,7 +187,7 @@
         ]
     },
     "14.0.7140.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "December 2014",
         "build": "14.0.7140.5000",
         "kb_numbers": [
@@ -165,7 +198,7 @@
         ]
     },
     "14.0.7143.5001": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "February 2015",
         "build": "14.0.7143.5001",
         "kb_numbers": [
@@ -176,31 +209,31 @@
         ]
     },
     "14.0.7145.5001": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "March 2015",
         "build": "14.0.7145.5001",
         "kb_numbers": []
     },
     "14.0.7147.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "April 2015",
         "build": "14.0.7147.5000",
         "kb_numbers": []
     },
     "14.0.7149.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "May 2015",
         "build": "14.0.7149.5000",
         "kb_numbers": []
     },
     "14.0.7151.5001": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "June 2015",
         "build": "14.0.7151.5001",
         "kb_numbers": []
     },
     "14.0.7153.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "July 2015",
         "build": "14.0.7153.5000",
         "kb_numbers": [
@@ -211,7 +244,7 @@
         ]
     },
     "14.0.7155.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "August 2015",
         "build": "14.0.7155.5000",
         "kb_numbers": [
@@ -222,7 +255,7 @@
         ]
     },
     "14.0.7157.5001": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "September 2015",
         "build": "14.0.7157.5001",
         "kb_numbers": [
@@ -233,7 +266,7 @@
         ]
     },
     "14.0.7160.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "October 2015",
         "build": "14.0.7160.5000",
         "kb_numbers": [
@@ -244,7 +277,7 @@
         ]
     },
     "14.0.7162.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "November 2015",
         "build": "14.0.7162.5000",
         "kb_numbers": [
@@ -255,7 +288,7 @@
         ]
     },
     "14.0.7164.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "December 2015",
         "build": "14.0.7164.5000",
         "kb_numbers": [
@@ -266,7 +299,7 @@
         ]
     },
     "14.0.7166.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "February 2016",
         "build": "14.0.7166.5000",
         "kb_numbers": [
@@ -342,6 +375,17 @@
             }
         ]
     },
+    "14.0.7171.500014.0.7171.5002": {
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
+        "release_date": "July 2016",
+        "build": "14.0.7171.500014.0.7171.5002",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/3114890",
+                "kb_title": "KB 3114890"
+            }
+        ]
+    },
     "14.0.7173.5000": {
         "name": "SharePoint Server 2010",
         "release_date": "September 2016",
@@ -376,7 +420,7 @@
         ]
     },
     "14.0.7177.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "December 2016",
         "build": "14.0.7177.5000",
         "kb_numbers": [
@@ -475,7 +519,7 @@
         ]
     },
     "14.0.7192.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "January 2018",
         "build": "14.0.7192.5000",
         "kb_numbers": [
@@ -563,7 +607,7 @@
         ]
     },
     "14.0.7224.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "November 2018",
         "build": "14.0.7224.5000",
         "kb_numbers": [
@@ -574,7 +618,7 @@
         ]
     },
     "14.0.7225.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "December 2018",
         "build": "14.0.7225.5000",
         "kb_numbers": [
@@ -596,7 +640,7 @@
         ]
     },
     "14.0.7229.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "February 2019",
         "build": "14.0.7229.5000",
         "kb_numbers": [
@@ -607,7 +651,7 @@
         ]
     },
     "14.0.7231.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "March 2019",
         "build": "14.0.7231.5000",
         "kb_numbers": [
@@ -618,7 +662,7 @@
         ]
     },
     "14.0.7232.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "April 2019",
         "build": "14.0.7232.5000",
         "kb_numbers": [
@@ -629,7 +673,7 @@
         ]
     },
     "14.0.7233.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "May 2019",
         "build": "14.0.7233.5000",
         "kb_numbers": [
@@ -651,7 +695,7 @@
         ]
     },
     "14.0.7235.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "July 2019",
         "build": "14.0.7235.5000",
         "kb_numbers": [
@@ -662,7 +706,7 @@
         ]
     },
     "14.0.7236.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "August 2019",
         "build": "14.0.7236.5000",
         "kb_numbers": [
@@ -673,7 +717,7 @@
         ]
     },
     "14.0.7237.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "September 2019",
         "build": "14.0.7237.5000",
         "kb_numbers": [
@@ -684,7 +728,7 @@
         ]
     },
     "14.0.7239.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "October 2019",
         "build": "14.0.7239.5000",
         "kb_numbers": [
@@ -695,7 +739,7 @@
         ]
     },
     "14.0.7241.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "November 2019",
         "build": "14.0.7241.5000",
         "kb_numbers": [
@@ -717,7 +761,7 @@
         ]
     },
     "14.0.7246.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "March 2020",
         "build": "14.0.7246.5000",
         "kb_numbers": [
@@ -728,7 +772,7 @@
         ]
     },
     "14.0.7248.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "April 2020",
         "build": "14.0.7248.5000",
         "kb_numbers": [
@@ -739,7 +783,7 @@
         ]
     },
     "14.0.7250.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "May 2020",
         "build": "14.0.7250.5000",
         "kb_numbers": [
@@ -750,7 +794,7 @@
         ]
     },
     "14.0.7253.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "June 2020",
         "build": "14.0.7253.5000",
         "kb_numbers": [
@@ -772,7 +816,7 @@
         ]
     },
     "14.0.7256.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "August 2020",
         "build": "14.0.7256.5000",
         "kb_numbers": [
@@ -783,7 +827,7 @@
         ]
     },
     "14.0.7260.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "September 2020",
         "build": "14.0.7260.5000",
         "kb_numbers": [
@@ -794,7 +838,7 @@
         ]
     },
     "14.0.7261.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "October 2020",
         "build": "14.0.7261.5000",
         "kb_numbers": [
@@ -805,7 +849,7 @@
         ]
     },
     "14.0.7262.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "November 2020",
         "build": "14.0.7262.5000",
         "kb_numbers": [
@@ -816,7 +860,7 @@
         ]
     },
     "14.0.7263.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "December 2020",
         "build": "14.0.7263.5000",
         "kb_numbers": [
@@ -827,7 +871,7 @@
         ]
     },
     "14.0.7264.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "January 2021",
         "build": "14.0.7264.5000",
         "kb_numbers": [
@@ -838,7 +882,7 @@
         ]
     },
     "14.0.7265.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "February 2021",
         "build": "14.0.7265.5000",
         "kb_numbers": [
@@ -860,7 +904,7 @@
         ]
     },
     "14.0.7268.5000": {
-        "name": "SharePoint Foundation 2010  SharePoint Server 2010",
+        "name": "SharePoint Foundation 2010SharePoint Server 2010",
         "release_date": "April 2021",
         "build": "14.0.7268.5000",
         "kb_numbers": [
@@ -871,7 +915,7 @@
         ]
     },
     "15.0.4481.1005": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2013",
         "build": "15.0.4481.1005",
         "kb_numbers": [
@@ -903,6 +947,17 @@
             }
         ]
     },
+    "15.0.4505.100215.0.4505.1005": {
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
+        "release_date": "April 2013",
+        "build": "15.0.4505.100215.0.4505.1005",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/2751999",
+                "kb_title": "KB 2751999"
+            }
+        ]
+    },
     "15.0.4517.1003": {
         "name": "SharePoint Foundation 2013  SharePoint Server 2013",
         "release_date": "June 2013",
@@ -925,8 +980,19 @@
             }
         ]
     },
+    "15.0.4517.100315.0.4517.1005": {
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
+        "release_date": "June 2013",
+        "build": "15.0.4517.100315.0.4517.1005",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/2817346",
+                "kb_title": "KB 2817346"
+            }
+        ]
+    },
     "15.0.4535.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2013",
         "build": "15.0.4535.1000",
         "kb_numbers": [
@@ -980,8 +1046,30 @@
             }
         ]
     },
+    "15.0.4551.100115.0.4551.1005": {
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
+        "release_date": "October 2013",
+        "build": "15.0.4551.100115.0.4551.1005",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/2825674",
+                "kb_title": "KB 2825674"
+            }
+        ]
+    },
+    "15.0.4551.150815.0.4551.1511": {
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
+        "release_date": "December 2013",
+        "build": "15.0.4551.150815.0.4551.1511",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/2849961",
+                "kb_title": "KB 2849961"
+            }
+        ]
+    },
     "15.0.4571.1502": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "Service Pack 1          April 2014",
         "build": "15.0.4571.1502",
         "kb_numbers": [
@@ -992,7 +1080,7 @@
         ]
     },
     "15.0.4605.1004": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2014",
         "build": "15.0.4605.1004",
         "kb_numbers": [
@@ -1003,7 +1091,7 @@
         ]
     },
     "15.0.4623.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2014",
         "build": "15.0.4623.1001",
         "kb_numbers": [
@@ -1014,7 +1102,7 @@
         ]
     },
     "15.0.4631.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2014",
         "build": "15.0.4631.1001",
         "kb_numbers": [
@@ -1025,19 +1113,19 @@
         ]
     },
     "15.0.4649.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2014",
         "build": "15.0.4649.1001",
         "kb_numbers": []
     },
     "15.0.4667.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2014",
         "build": "15.0.4667.1000",
         "kb_numbers": []
     },
     "15.0.4675.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2014",
         "build": "15.0.4675.1000",
         "kb_numbers": [
@@ -1048,7 +1136,7 @@
         ]
     },
     "15.0.4693.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2015",
         "build": "15.0.4693.1001",
         "kb_numbers": [
@@ -1059,7 +1147,7 @@
         ]
     },
     "15.0.4701.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2015",
         "build": "15.0.4701.1001",
         "kb_numbers": [
@@ -1070,7 +1158,7 @@
         ]
     },
     "15.0.4711.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2015",
         "build": "15.0.4711.1000",
         "kb_numbers": [
@@ -1081,7 +1169,7 @@
         ]
     },
     "15.0.4719.1002": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2015",
         "build": "15.0.4719.1002",
         "kb_numbers": [
@@ -1092,7 +1180,7 @@
         ]
     },
     "15.0.4727.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2015",
         "build": "15.0.4727.1001",
         "kb_numbers": [
@@ -1103,7 +1191,7 @@
         ]
     },
     "15.0.4737.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2015",
         "build": "15.0.4737.1000",
         "kb_numbers": [
@@ -1114,7 +1202,7 @@
         ]
     },
     "15.0.4745.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2015",
         "build": "15.0.4745.1000",
         "kb_numbers": [
@@ -1125,13 +1213,13 @@
         ]
     },
     "15.0.4753.1003": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2015",
         "build": "15.0.4753.1003",
         "kb_numbers": []
     },
     "15.0.4763.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "October 2015",
         "build": "15.0.4763.1000",
         "kb_numbers": [
@@ -1142,7 +1230,7 @@
         ]
     },
     "15.0.4771.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2015",
         "build": "15.0.4771.1000",
         "kb_numbers": [
@@ -1153,7 +1241,7 @@
         ]
     },
     "15.0.4779.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2015",
         "build": "15.0.4779.1000",
         "kb_numbers": [
@@ -1164,7 +1252,7 @@
         ]
     },
     "15.0.4787.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "January 2016",
         "build": "15.0.4787.1000",
         "kb_numbers": [
@@ -1175,7 +1263,7 @@
         ]
     },
     "15.0.4797.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2016",
         "build": "15.0.4797.1001",
         "kb_numbers": [
@@ -1186,7 +1274,7 @@
         ]
     },
     "15.0.4805.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2016",
         "build": "15.0.4805.1000",
         "kb_numbers": [
@@ -1197,7 +1285,7 @@
         ]
     },
     "15.0.4815.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2016",
         "build": "15.0.4815.1000",
         "kb_numbers": [
@@ -1208,7 +1296,7 @@
         ]
     },
     "15.0.4823.1003": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2016",
         "build": "15.0.4823.1003",
         "kb_numbers": [
@@ -1219,7 +1307,7 @@
         ]
     },
     "15.0.4833.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2016",
         "build": "15.0.4833.1000",
         "kb_numbers": [
@@ -1230,7 +1318,7 @@
         ]
     },
     "15.0.4841.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2016",
         "build": "15.0.4841.1000",
         "kb_numbers": [
@@ -1241,7 +1329,7 @@
         ]
     },
     "15.0.4849.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2016",
         "build": "15.0.4849.1000",
         "kb_numbers": [
@@ -1252,7 +1340,7 @@
         ]
     },
     "15.0.4859.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2016",
         "build": "15.0.4859.1000",
         "kb_numbers": [
@@ -1263,7 +1351,7 @@
         ]
     },
     "15.0.4867.1002": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "October 2016",
         "build": "15.0.4867.1002",
         "kb_numbers": [
@@ -1274,7 +1362,7 @@
         ]
     },
     "15.0.4875.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2016",
         "build": "15.0.4875.1000",
         "kb_numbers": [
@@ -1285,7 +1373,7 @@
         ]
     },
     "15.0.4885.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2016",
         "build": "15.0.4885.1000",
         "kb_numbers": [
@@ -1296,7 +1384,7 @@
         ]
     },
     "15.0.4893.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "January 2017",
         "build": "15.0.4893.1001",
         "kb_numbers": [
@@ -1307,7 +1395,7 @@
         ]
     },
     "15.0.4911.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2017",
         "build": "15.0.4911.1001",
         "kb_numbers": [
@@ -1318,7 +1406,7 @@
         ]
     },
     "15.0.4919.1003": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2017",
         "build": "15.0.4919.1003",
         "kb_numbers": [
@@ -1329,7 +1417,7 @@
         ]
     },
     "15.0.4927.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2017",
         "build": "15.0.4927.1001",
         "kb_numbers": [
@@ -1340,7 +1428,7 @@
         ]
     },
     "15.0.4937.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2017",
         "build": "15.0.4937.1000",
         "kb_numbers": [
@@ -1351,7 +1439,7 @@
         ]
     },
     "15.0.4945.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2017",
         "build": "15.0.4945.1000",
         "kb_numbers": [
@@ -1362,7 +1450,7 @@
         ]
     },
     "15.0.4953.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2017",
         "build": "15.0.4953.1000",
         "kb_numbers": [
@@ -1373,7 +1461,7 @@
         ]
     },
     "15.0.4963.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2017",
         "build": "15.0.4963.1001",
         "kb_numbers": [
@@ -1405,8 +1493,19 @@
             }
         ]
     },
+    "15.0.4971.100115.0.4971.1002": {
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
+        "release_date": "October 2017",
+        "build": "15.0.4971.100115.0.4971.1002",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/4011173",
+                "kb_title": "KB 4011173"
+            }
+        ]
+    },
     "15.0.4981.1002": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2017",
         "build": "15.0.4981.1002",
         "kb_numbers": [
@@ -1417,7 +1516,7 @@
         ]
     },
     "15.0.4989.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2017",
         "build": "15.0.4989.1001",
         "kb_numbers": [
@@ -1428,7 +1527,7 @@
         ]
     },
     "15.0.4997.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "January 2018",
         "build": "15.0.4997.1000",
         "kb_numbers": [
@@ -1439,7 +1538,7 @@
         ]
     },
     "15.0.5007.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2018",
         "build": "15.0.5007.1000",
         "kb_numbers": [
@@ -1450,7 +1549,7 @@
         ]
     },
     "15.0.5015.1002": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2018",
         "build": "15.0.5015.1002",
         "kb_numbers": [
@@ -1461,7 +1560,7 @@
         ]
     },
     "15.0.5023.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2018",
         "build": "15.0.5023.1000",
         "kb_numbers": [
@@ -1472,7 +1571,7 @@
         ]
     },
     "15.0.5031.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2018",
         "build": "15.0.5031.1000",
         "kb_numbers": [
@@ -1483,7 +1582,7 @@
         ]
     },
     "15.0.5041.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2018",
         "build": "15.0.5041.1000",
         "kb_numbers": [
@@ -1494,7 +1593,7 @@
         ]
     },
     "15.0.5049.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2018",
         "build": "15.0.5049.1001",
         "kb_numbers": [
@@ -1505,7 +1604,7 @@
         ]
     },
     "15.0.5059.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2018",
         "build": "15.0.5059.1000",
         "kb_numbers": [
@@ -1516,7 +1615,7 @@
         ]
     },
     "15.0.5067.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2018",
         "build": "15.0.5067.1000",
         "kb_numbers": [
@@ -1527,7 +1626,7 @@
         ]
     },
     "15.0.5075.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "October 2018",
         "build": "15.0.5075.1000",
         "kb_numbers": [
@@ -1538,7 +1637,7 @@
         ]
     },
     "15.0.5085.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2018",
         "build": "15.0.5085.1000",
         "kb_numbers": [
@@ -1549,7 +1648,7 @@
         ]
     },
     "15.0.5093.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2018",
         "build": "15.0.5093.1000",
         "kb_numbers": [
@@ -1581,8 +1680,19 @@
             }
         ]
     },
+    "15.0.5101.100015.0.5101.1001": {
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
+        "release_date": "January 2019",
+        "build": "15.0.5101.100015.0.5101.1001",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/4461603",
+                "kb_title": "KB 4461603"
+            }
+        ]
+    },
     "15.0.5111.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2019",
         "build": "15.0.5111.1001",
         "kb_numbers": [
@@ -1593,7 +1703,7 @@
         ]
     },
     "15.0.5119.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2019",
         "build": "15.0.5119.1001",
         "kb_numbers": [
@@ -1604,7 +1714,7 @@
         ]
     },
     "15.0.5127.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2019",
         "build": "15.0.5127.1000",
         "kb_numbers": [
@@ -1615,7 +1725,7 @@
         ]
     },
     "15.0.5137.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2019",
         "build": "15.0.5137.1000",
         "kb_numbers": [
@@ -1626,7 +1736,7 @@
         ]
     },
     "15.0.5145.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2019",
         "build": "15.0.5145.1000",
         "kb_numbers": [
@@ -1637,7 +1747,7 @@
         ]
     },
     "15.0.5153.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2019",
         "build": "15.0.5153.1000",
         "kb_numbers": [
@@ -1648,7 +1758,7 @@
         ]
     },
     "15.0.5163.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2019",
         "build": "15.0.5163.1000",
         "kb_numbers": [
@@ -1659,7 +1769,7 @@
         ]
     },
     "15.0.5172.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2019",
         "build": "15.0.5172.1000",
         "kb_numbers": [
@@ -1670,7 +1780,7 @@
         ]
     },
     "15.0.5179.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "October 2019",
         "build": "15.0.5179.1000",
         "kb_numbers": [
@@ -1681,7 +1791,7 @@
         ]
     },
     "15.0.5189.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2019",
         "build": "15.0.5189.1000",
         "kb_numbers": [
@@ -1692,7 +1802,7 @@
         ]
     },
     "15.0.5197.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2019",
         "build": "15.0.5197.1000",
         "kb_numbers": [
@@ -1703,7 +1813,7 @@
         ]
     },
     "15.0.5207.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "January 2020",
         "build": "15.0.5207.1000",
         "kb_numbers": [
@@ -1714,7 +1824,7 @@
         ]
     },
     "15.0.5215.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2020",
         "build": "15.0.5215.1000",
         "kb_numbers": [
@@ -1725,7 +1835,7 @@
         ]
     },
     "15.0.5223.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2020",
         "build": "15.0.5223.1000",
         "kb_numbers": [
@@ -1736,7 +1846,7 @@
         ]
     },
     "15.0.5233.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2020",
         "build": "15.0.5233.1000",
         "kb_numbers": [
@@ -1747,7 +1857,7 @@
         ]
     },
     "15.0.5241.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2020",
         "build": "15.0.5241.1000",
         "kb_numbers": [
@@ -1758,7 +1868,7 @@
         ]
     },
     "15.0.5249.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2020",
         "build": "15.0.5249.1001",
         "kb_numbers": [
@@ -1769,7 +1879,7 @@
         ]
     },
     "15.0.5259.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2020",
         "build": "15.0.5259.1001",
         "kb_numbers": [
@@ -1780,7 +1890,7 @@
         ]
     },
     "15.0.5267.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2020",
         "build": "15.0.5267.1000",
         "kb_numbers": [
@@ -1791,7 +1901,7 @@
         ]
     },
     "15.0.5275.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2020",
         "build": "15.0.5275.1001",
         "kb_numbers": [
@@ -1802,7 +1912,7 @@
         ]
     },
     "15.0.5285.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "October 2020",
         "build": "15.0.5285.1000",
         "kb_numbers": [
@@ -1813,7 +1923,7 @@
         ]
     },
     "15.0.5293.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2020",
         "build": "15.0.5293.1000",
         "kb_numbers": [
@@ -1824,7 +1934,7 @@
         ]
     },
     "15.0.5301.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2020",
         "build": "15.0.5301.1000",
         "kb_numbers": [
@@ -1835,7 +1945,7 @@
         ]
     },
     "15.0.5311.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "January 2021",
         "build": "15.0.5311.1000",
         "kb_numbers": [
@@ -1846,7 +1956,7 @@
         ]
     },
     "15.0.5319.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2021",
         "build": "15.0.5319.1000",
         "kb_numbers": [
@@ -1857,7 +1967,7 @@
         ]
     },
     "15.0.5327.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2021",
         "build": "15.0.5327.1001",
         "kb_numbers": [
@@ -1868,7 +1978,7 @@
         ]
     },
     "15.0.5337.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2021",
         "build": "15.0.5337.1000",
         "kb_numbers": [
@@ -1879,7 +1989,7 @@
         ]
     },
     "15.0.5345.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2021",
         "build": "15.0.5345.1000",
         "kb_numbers": [
@@ -1890,7 +2000,7 @@
         ]
     },
     "15.0.5353.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2021",
         "build": "15.0.5353.1000",
         "kb_numbers": [
@@ -1901,7 +2011,7 @@
         ]
     },
     "15.0.5363.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "July 2021",
         "build": "15.0.5363.1000",
         "kb_numbers": [
@@ -1912,7 +2022,7 @@
         ]
     },
     "15.0.5371.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2021",
         "build": "15.0.5371.1000",
         "kb_numbers": [
@@ -1923,7 +2033,7 @@
         ]
     },
     "15.0.5381.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2021",
         "build": "15.0.5381.1000",
         "kb_numbers": [
@@ -1934,7 +2044,7 @@
         ]
     },
     "15.0.5389.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "October 2021",
         "build": "15.0.5389.1000",
         "kb_numbers": [
@@ -1945,7 +2055,7 @@
         ]
     },
     "15.0.5407.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2021",
         "build": "15.0.5407.1000",
         "kb_numbers": [
@@ -1956,7 +2066,7 @@
         ]
     },
     "15.0.5415.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "January 2022",
         "build": "15.0.5415.1000",
         "kb_numbers": [
@@ -1967,7 +2077,7 @@
         ]
     },
     "15.0.5423.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2022",
         "build": "15.0.5423.1000",
         "kb_numbers": [
@@ -1978,7 +2088,7 @@
         ]
     },
     "15.0.5431.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2022",
         "build": "15.0.5431.1000",
         "kb_numbers": [
@@ -1989,7 +2099,7 @@
         ]
     },
     "15.0.5441.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2022",
         "build": "15.0.5441.1000",
         "kb_numbers": [
@@ -2000,7 +2110,7 @@
         ]
     },
     "15.0.5449.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "May 2022",
         "build": "15.0.5449.1000",
         "kb_numbers": [
@@ -2011,7 +2121,7 @@
         ]
     },
     "15.0.5459.1001": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "June 2022",
         "build": "15.0.5459.1001",
         "kb_numbers": [
@@ -2022,7 +2132,7 @@
         ]
     },
     "15.0.5475.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "August 2022",
         "build": "15.0.5475.1000",
         "kb_numbers": [
@@ -2033,7 +2143,7 @@
         ]
     },
     "15.0.5485.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "September 2022",
         "build": "15.0.5485.1000",
         "kb_numbers": [
@@ -2044,7 +2154,7 @@
         ]
     },
     "15.0.5493.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "October 2022",
         "build": "15.0.5493.1000",
         "kb_numbers": [
@@ -2055,7 +2165,7 @@
         ]
     },
     "15.0.5501.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "November 2022",
         "build": "15.0.5501.1000",
         "kb_numbers": [
@@ -2066,7 +2176,7 @@
         ]
     },
     "15.0.5511.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "December 2022",
         "build": "15.0.5511.1000",
         "kb_numbers": [
@@ -2077,7 +2187,7 @@
         ]
     },
     "15.0.5519.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "January 2023",
         "build": "15.0.5519.1000",
         "kb_numbers": [
@@ -2088,7 +2198,7 @@
         ]
     },
     "15.0.5529.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "February 2023",
         "build": "15.0.5529.1000",
         "kb_numbers": [
@@ -2099,7 +2209,7 @@
         ]
     },
     "15.0.5537.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "March 2023",
         "build": "15.0.5537.1000",
         "kb_numbers": [
@@ -2110,7 +2220,7 @@
         ]
     },
     "15.0.5545.1000": {
-        "name": "SharePoint Foundation 2013  SharePoint Server 2013",
+        "name": "SharePoint Foundation 2013SharePoint Server 2013",
         "release_date": "April 2023",
         "build": "15.0.5545.1000",
         "kb_numbers": [
@@ -3528,6 +3638,28 @@
             }
         ]
     },
+    "16.0.5535.1000": {
+        "name": "SharePoint Server 2016  SharePoint Server 2016 MUI/language patch",
+        "release_date": "January 13, 2026",
+        "build": "16.0.5535.1000",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002828",
+                "kb_title": "KB 5002828"
+            }
+        ]
+    },
+    "16.0.5535.1001": {
+        "name": "SharePoint Server 2016  SharePoint Server 2016 MUI/language patch",
+        "release_date": "January 13, 2026",
+        "build": "16.0.5535.1001",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002828",
+                "kb_title": "KB 5002828"
+            }
+        ]
+    },
     "16.0.10338.12107": {
         "name": "SharePoint Server 2019",
         "release_date": "November 2018",
@@ -3572,8 +3704,19 @@
             }
         ]
     },
+    "16.0.10340.1210116.0.10340.20015": {
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
+        "release_date": "January 2019",
+        "build": "16.0.10340.1210116.0.10340.20015",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/4461634",
+                "kb_title": "KB 4461634"
+            }
+        ]
+    },
     "16.0.10341.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "February 2019",
         "build": "16.0.10341.20000",
         "kb_numbers": [
@@ -3595,7 +3738,7 @@
         ]
     },
     "16.0.10343.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "April 2019",
         "build": "16.0.10343.20000",
         "kb_numbers": [
@@ -3650,7 +3793,7 @@
         ]
     },
     "16.0.10350.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "September 2019",
         "build": "16.0.10350.20000",
         "kb_numbers": [
@@ -3661,7 +3804,7 @@
         ]
     },
     "16.0.10351.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "October 2019",
         "build": "16.0.10351.20000",
         "kb_numbers": [
@@ -3672,7 +3815,7 @@
         ]
     },
     "16.0.10352.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "November 2019",
         "build": "16.0.10352.20000",
         "kb_numbers": [
@@ -3683,7 +3826,7 @@
         ]
     },
     "16.0.10353.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "December 2019",
         "build": "16.0.10353.20001",
         "kb_numbers": [
@@ -3705,7 +3848,7 @@
         ]
     },
     "16.0.10355.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "February 2020",
         "build": "16.0.10355.20000",
         "kb_numbers": [
@@ -3716,7 +3859,7 @@
         ]
     },
     "16.0.10357.20002": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "March 2020",
         "build": "16.0.10357.20002",
         "kb_numbers": [
@@ -3727,7 +3870,7 @@
         ]
     },
     "16.0.10358.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "April 2020",
         "build": "16.0.10358.20000",
         "kb_numbers": [
@@ -3738,7 +3881,7 @@
         ]
     },
     "16.0.10359.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "May 2020",
         "build": "16.0.10359.20000",
         "kb_numbers": [
@@ -3749,7 +3892,7 @@
         ]
     },
     "16.0.10361.12114": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "June 2020",
         "build": "16.0.10361.12114",
         "kb_numbers": [
@@ -3760,7 +3903,7 @@
         ]
     },
     "16.0.10363.12107": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "July 2020",
         "build": "16.0.10363.12107",
         "kb_numbers": [
@@ -3771,7 +3914,7 @@
         ]
     },
     "16.0.10364.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "August 2020",
         "build": "16.0.10364.20001",
         "kb_numbers": [
@@ -3782,7 +3925,7 @@
         ]
     },
     "16.0.10366.12106": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "September 2020",
         "build": "16.0.10366.12106",
         "kb_numbers": [
@@ -3793,7 +3936,7 @@
         ]
     },
     "16.0.10367.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "October 2020",
         "build": "16.0.10367.20000",
         "kb_numbers": [
@@ -3804,7 +3947,7 @@
         ]
     },
     "16.0.10368.20022": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "November 2020",
         "build": "16.0.10368.20022",
         "kb_numbers": [
@@ -3815,7 +3958,7 @@
         ]
     },
     "16.0.10369.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "December 2020",
         "build": "16.0.10369.20000",
         "kb_numbers": [
@@ -3826,7 +3969,7 @@
         ]
     },
     "16.0.10370.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "January 2021",
         "build": "16.0.10370.20001",
         "kb_numbers": [
@@ -3837,7 +3980,7 @@
         ]
     },
     "16.0.10371.20043": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "February 2021",
         "build": "16.0.10371.20043",
         "kb_numbers": [
@@ -3848,7 +3991,7 @@
         ]
     },
     "16.0.10372.20060": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "March 2021",
         "build": "16.0.10372.20060",
         "kb_numbers": [
@@ -3859,7 +4002,7 @@
         ]
     },
     "16.0.10373.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "April 2021",
         "build": "16.0.10373.20000",
         "kb_numbers": [
@@ -3870,7 +4013,7 @@
         ]
     },
     "16.0.10374.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "May 2021",
         "build": "16.0.10374.20000",
         "kb_numbers": [
@@ -3881,7 +4024,7 @@
         ]
     },
     "16.0.10375.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "June 2021",
         "build": "16.0.10375.20000",
         "kb_numbers": [
@@ -3892,7 +4035,7 @@
         ]
     },
     "16.0.10376.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "July 2021",
         "build": "16.0.10376.20001",
         "kb_numbers": [
@@ -3903,7 +4046,7 @@
         ]
     },
     "16.0.10377.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "August 2021",
         "build": "16.0.10377.20001",
         "kb_numbers": [
@@ -3914,7 +4057,7 @@
         ]
     },
     "16.0.10378.20002": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "September 2021",
         "build": "16.0.10378.20002",
         "kb_numbers": [
@@ -3925,7 +4068,7 @@
         ]
     },
     "16.0.10379.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "October 2021",
         "build": "16.0.10379.20000",
         "kb_numbers": [
@@ -3936,7 +4079,7 @@
         ]
     },
     "16.0.10381.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "December 2021",
         "build": "16.0.10381.20001",
         "kb_numbers": [
@@ -3947,7 +4090,7 @@
         ]
     },
     "16.0.10382.20004": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "January 2022",
         "build": "16.0.10382.20004",
         "kb_numbers": [
@@ -3958,7 +4101,7 @@
         ]
     },
     "16.0.10383.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "February 2022",
         "build": "16.0.10383.20001",
         "kb_numbers": [
@@ -3980,7 +4123,7 @@
         ]
     },
     "16.0.10385.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "April 2022",
         "build": "16.0.10385.20001",
         "kb_numbers": [
@@ -4012,8 +4155,19 @@
             }
         ]
     },
+    "16.0.10386.2001116.0.10386.20015": {
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
+        "release_date": "May 2022",
+        "build": "16.0.10386.2001116.0.10386.20015",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002207",
+                "kb_title": "KB 5002207"
+            }
+        ]
+    },
     "16.0.10387.20008": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "June 2022",
         "build": "16.0.10387.20008",
         "kb_numbers": [
@@ -4024,7 +4178,7 @@
         ]
     },
     "16.0.10388.20004": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "July 2022",
         "build": "16.0.10388.20004",
         "kb_numbers": [
@@ -4035,7 +4189,7 @@
         ]
     },
     "16.0.10389.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "August 2022",
         "build": "16.0.10389.20000",
         "kb_numbers": [
@@ -4046,7 +4200,7 @@
         ]
     },
     "16.0.10390.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "September 2022",
         "build": "16.0.10390.20000",
         "kb_numbers": [
@@ -4057,7 +4211,7 @@
         ]
     },
     "16.0.10391.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "October 2022",
         "build": "16.0.10391.20000",
         "kb_numbers": [
@@ -4068,7 +4222,7 @@
         ]
     },
     "16.0.10392.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "November 2022",
         "build": "16.0.10392.20000",
         "kb_numbers": [
@@ -4079,7 +4233,7 @@
         ]
     },
     "16.0.10394.20016": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "December 2022",
         "build": "16.0.10394.20016",
         "kb_numbers": [
@@ -4101,7 +4255,7 @@
         ]
     },
     "16.0.10395.20001": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "February 2023",
         "build": "16.0.10395.20001",
         "kb_numbers": [
@@ -4112,7 +4266,7 @@
         ]
     },
     "16.0.10396.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "March 2023",
         "build": "16.0.10396.20000",
         "kb_numbers": [
@@ -4134,7 +4288,7 @@
         ]
     },
     "16.0.10398.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "May 2023",
         "build": "16.0.10398.20000",
         "kb_numbers": [
@@ -4145,7 +4299,7 @@
         ]
     },
     "16.0.10399.20005": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "June 2023",
         "build": "16.0.10399.20005",
         "kb_numbers": [
@@ -4167,7 +4321,7 @@
         ]
     },
     "16.0.10401.20025": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "August 2023",
         "build": "16.0.10401.20025",
         "kb_numbers": [
@@ -4178,7 +4332,7 @@
         ]
     },
     "16.0.10402.20016": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "September 2023",
         "build": "16.0.10402.20016",
         "kb_numbers": [
@@ -4200,7 +4354,7 @@
         ]
     },
     "16.0.10404.20003": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "November 2023",
         "build": "16.0.10404.20003",
         "kb_numbers": [
@@ -4211,7 +4365,7 @@
         ]
     },
     "16.0.10405.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "December 2023",
         "build": "16.0.10405.20000",
         "kb_numbers": [
@@ -4255,7 +4409,7 @@
         ]
     },
     "16.0.10409.20027": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "April 2024",
         "build": "16.0.10409.20027",
         "kb_numbers": [
@@ -4299,7 +4453,7 @@
         ]
     },
     "16.0.10413.20000": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "August 2024",
         "build": "16.0.10413.20000",
         "kb_numbers": [
@@ -4343,7 +4497,7 @@
         ]
     },
     "16.0.10416.20026": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "December 2024",
         "build": "16.0.10416.20026",
         "kb_numbers": [
@@ -4354,7 +4508,7 @@
         ]
     },
     "16.0.10416.20041": {
-        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "name": "SharePoint Server 2019SharePoint Server 2019 MUI/language patch",
         "release_date": "January 2025",
         "build": "16.0.10416.20041",
         "kb_numbers": [
@@ -4482,6 +4636,17 @@
             {
                 "kb_number": "https://support.microsoft.com/help/5002816",
                 "kb_title": "KB 5002816"
+            }
+        ]
+    },
+    "16.0.10417.20083": {
+        "name": "SharePoint Server 2019  SharePoint Server 2019 MUI/language patch",
+        "release_date": "January 13, 2026",
+        "build": "16.0.10417.20083",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002825",
+                "kb_title": "KB 5002825"
             }
         ]
     },
@@ -5032,6 +5197,17 @@
             {
                 "kb_number": "https://support.microsoft.com/help/5002815",
                 "kb_title": "KB 5002815"
+            }
+        ]
+    },
+    "16.0.19127.20442": {
+        "name": "SharePoint Server Subscription Edition",
+        "release_date": "January 13, 2026",
+        "build": "16.0.19127.20442",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002822",
+                "kb_title": "KB 5002822"
             }
         ]
     }
