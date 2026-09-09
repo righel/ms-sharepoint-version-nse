@@ -4772,5 +4772,16 @@
                 "kb_title": "KB 5002893"
             }
         ]
+    },
+    "16.0.20326.20124": {
+        "name": "SharePoint Server Subscription Edition",
+        "release_date": "September 8, 2026",
+        "build": "16.0.20326.20124",
+        "kb_numbers": [
+            {
+                "kb_number": "https://support.microsoft.com/help/5002908",
+                "kb_title": "KB 5002908"
+            }
+        ]
     }
 }
